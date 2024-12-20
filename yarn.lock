@@ -1353,6 +1353,11 @@ pirates@^4.0.1:
   resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.6.tgz#3018ae32ecfcff6c29ba2267cbf21166ac1f36b9"
   integrity sha512-saLsH7WeYYPiD25LDuLRRY/i+6HaPYr6G1OUlN39otzkSTxKnubR9RTxS3/Kk50s1g2JTgFwWQDQyplC5/SHZg==
 
+pocketbase@^0.23.0:
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/pocketbase/-/pocketbase-0.23.0.tgz#cd54aaaf97a683ea4e637a58d51bbf43603a1aae"
+  integrity sha512-S9b/QSKGXsRyL55m8MoXMucPTpMvpOLlOLTSduraIOzwVt8Epp0j7V53a1qW7VbF2pL7PC579DOruxJBWqBYTg==
+
 postcss-import@^15.1.0:
   version "15.1.0"
   resolved "https://registry.yarnpkg.com/postcss-import/-/postcss-import-15.1.0.tgz#41c64ed8cc0e23735a9698b3249ffdbf704adc70"
@@ -1875,7 +1880,7 @@ zustand@^4.3.2:
   dependencies:
     use-sync-external-store "1.2.2"
 
-zustand@^5.0.1:
+zustand@^5.0.1, zustand@^5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/zustand/-/zustand-5.0.2.tgz#f7595ada55a565f1fd6464f002a91e701ee0cfca"
   integrity sha512-8qNdnJVJlHlrKXi50LDqqUNmUbuBjoKLrYQBnoChIbVph7vni+sY+YpvdjXG9YLd/Bxr6scMcR+rm5H3aSqPaw==
